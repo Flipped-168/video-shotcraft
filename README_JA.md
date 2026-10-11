@@ -1,5 +1,13 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-mark-reverse.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-mark.svg">
+  <img alt="video-shotcraft logo" src="./assets/brand/logo-mark.svg" width="96" height="96">
+</picture>
+
+# video-shotcraft
+
 [English](README.md) | [中文](README_CN.md) | **日本語**
 
 [![GitHub stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft)](https://github.com/Vincentwei1021/video-shotcraft/stargazers)
@@ -9,18 +17,6 @@
 [![AtomGit Star](https://atomgit.com/VincentWei/video-shotcraft/star/badge.svg)](https://atomgit.com/VincentWei/video-shotcraft)
 
 <a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-mark-reverse.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-mark.svg">
-  <img alt="video-shotcraft logo" src="./assets/brand/logo-mark.svg" width="96" height="96">
-</picture>
-
-# video-shotcraft
-
-**Frame motion. Craft the shot.**
-
-プロダクトをエージェントに渡すだけで、映画のようなプロモーション映像が返ってきます。
 
 <img src="./assets/readme/cover.webp" width="100%" alt="video-shotcraft ライブラリの 6 ショット：プレミアカード、点灯するアイコン群、ネオンのマーキー、プロダクトのランディングページ、リソグラフ風ポスター、カメラレンズ">
 

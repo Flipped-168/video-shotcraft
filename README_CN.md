@@ -1,5 +1,13 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-mark-reverse.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-mark.svg">
+  <img alt="video-shotcraft logo" src="./assets/brand/logo-mark.svg" width="96" height="96">
+</picture>
+
+# video-shotcraft
+
 [English](README.md) | **中文** | [日本語](README_JA.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft)](https://github.com/Vincentwei1021/video-shotcraft/stargazers)
@@ -9,18 +17,6 @@
 [![AtomGit Star](https://atomgit.com/VincentWei/video-shotcraft/star/badge.svg)](https://atomgit.com/VincentWei/video-shotcraft)
 
 <a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-mark-reverse.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-mark.svg">
-  <img alt="video-shotcraft logo" src="./assets/brand/logo-mark.svg" width="96" height="96">
-</picture>
-
-# video-shotcraft
-
-**把运动，刻成镜头。**
-
-把产品交给你的 agent，拿回一支电影感的宣传片。
 
 <img src="./assets/readme/cover.webp" width="100%" alt="video-shotcraft 镜头库里的六个镜头：首映卡、点亮的图标阵列、霓虹跑马灯、产品落地页、孔版印刷海报、相机镜头">
 

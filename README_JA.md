@@ -18,7 +18,7 @@
 
 <a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
 
-<img src="./assets/readme/cover.webp" width="100%" alt="video-shotcraft ライブラリの 6 ショット：プレミアカード、点灯するアイコン群、ネオンのマーキー、プロダクトのランディングページ、リソグラフ風ポスター、カメラレンズ">
+<img src="./assets/readme/cover.webp" width="100%" alt="Gallery の 6 ショット、左から右・上から下：graze-face-tour、logo-shrink-wordmark-lockup、panel-grid-moves、product-card-progressive-assemble、space-camera-moves · exploded-view、spotlight-hero-card">
 
 [**▶ Gallery で 150 ショットをすべて見る**](https://vincentwei1021.github.io/video-shotcraft/) · [**🎬 Showcase の作品を見る**](https://vincentwei1021.github.io/video-shotcraft/showcase.html)
 

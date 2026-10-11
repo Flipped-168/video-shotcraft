@@ -18,7 +18,7 @@
 
 <a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
 
-<img src="./assets/readme/cover.webp" width="100%" alt="video-shotcraft 镜头库里的六个镜头：首映卡、点亮的图标阵列、霓虹跑马灯、产品落地页、孔版印刷海报、相机镜头">
+<img src="./assets/readme/cover.webp" width="100%" alt="六个 Gallery 镜头，从左到右、从上到下：graze-face-tour、logo-shrink-wordmark-lockup、panel-grid-moves、product-card-progressive-assemble、space-camera-moves · exploded-view、spotlight-hero-card">
 
 [**▶ 在 Gallery 浏览全部 150 个镜头**](https://vincentwei1021.github.io/video-shotcraft/) · [**🎬 看 Showcase 成片**](https://vincentwei1021.github.io/video-shotcraft/showcase.html)
 

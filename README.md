@@ -18,7 +18,7 @@
 
 <a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
 
-<img src="./assets/readme/cover.webp" width="100%" alt="Six shots from the video-shotcraft library: a premiere card, an icon field lighting up, a neon marquee, a product landing page, a riso poster and a camera lens">
+<img src="./assets/readme/cover.webp" width="100%" alt="Six Gallery shots, left to right, top to bottom: graze-face-tour, logo-shrink-wordmark-lockup, panel-grid-moves, product-card-progressive-assemble, space-camera-moves · exploded-view, spotlight-hero-card">
 
 [**▶ Browse all 150 shots in the Gallery**](https://vincentwei1021.github.io/video-shotcraft/) · [**🎬 Watch the Showcase**](https://vincentwei1021.github.io/video-shotcraft/showcase.html)
 

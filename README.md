@@ -1,5 +1,15 @@
 <div align="center">
 
+**English** | [中文](README_CN.md) | [日本語](README_JA.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft)](https://github.com/Vincentwei1021/video-shotcraft/stargazers)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-d97757)](SKILL.md)
+[![Codex](https://img.shields.io/badge/Codex-skill-10a37f)](SKILL.md)
+[![AtomGit Star](https://atomgit.com/VincentWei/video-shotcraft/star/badge.svg)](https://atomgit.com/VincentWei/video-shotcraft)
+
+<a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-mark-reverse.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-mark.svg">
@@ -15,16 +25,6 @@ Point your agent at your product. Get a cinematic promo film back.
 <img src="./assets/readme/cover.webp" width="100%" alt="Six shots from the video-shotcraft library: a premiere card, an icon field lighting up, a neon marquee, a product landing page, a riso poster and a camera lens">
 
 [**▶ Browse all 150 shots in the Gallery**](https://vincentwei1021.github.io/video-shotcraft/) · [**🎬 Watch the Showcase**](https://vincentwei1021.github.io/video-shotcraft/showcase.html)
-
-**English** | [中文](README_CN.md) | [日本語](README_JA.md)
-
-[![GitHub stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft)](https://github.com/Vincentwei1021/video-shotcraft/stargazers)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-d97757)](SKILL.md)
-[![Codex](https://img.shields.io/badge/Codex-skill-10a37f)](SKILL.md)
-[![AtomGit Star](https://atomgit.com/VincentWei/video-shotcraft/star/badge.svg)](https://atomgit.com/VincentWei/video-shotcraft)
-
-<a href="https://trendshift.io/repositories/88911?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/88911/daily?language=TypeScript" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
 
 </div>
 

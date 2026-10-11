@@ -1,5 +1,15 @@
 <div align="center">
 
+[English](README.md) | **中文** | [日本語](README_JA.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft)](https://github.com/Vincentwei1021/video-shotcraft/stargazers)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-d97757)](SKILL.md)
+[![Codex](https://img.shields.io/badge/Codex-skill-10a37f)](SKILL.md)
+[![AtomGit Star](https://atomgit.com/VincentWei/video-shotcraft/star/badge.svg)](https://atomgit.com/VincentWei/video-shotcraft)
+
+<a href="https://trendshift.io/repositories/88911?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/88911" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/logo-mark-reverse.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/brand/logo-mark.svg">
@@ -15,16 +25,6 @@
 <img src="./assets/readme/cover.webp" width="100%" alt="video-shotcraft 镜头库里的六个镜头：首映卡、点亮的图标阵列、霓虹跑马灯、产品落地页、孔版印刷海报、相机镜头">
 
 [**▶ 在 Gallery 浏览全部 150 个镜头**](https://vincentwei1021.github.io/video-shotcraft/) · [**🎬 看 Showcase 成片**](https://vincentwei1021.github.io/video-shotcraft/showcase.html)
-
-[English](README.md) | **中文** | [日本語](README_JA.md)
-
-[![GitHub stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft)](https://github.com/Vincentwei1021/video-shotcraft/stargazers)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-d97757)](SKILL.md)
-[![Codex](https://img.shields.io/badge/Codex-skill-10a37f)](SKILL.md)
-[![AtomGit Star](https://atomgit.com/VincentWei/video-shotcraft/star/badge.svg)](https://atomgit.com/VincentWei/video-shotcraft)
-
-<a href="https://trendshift.io/repositories/88911?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-88911" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/88911/daily?language=TypeScript" alt="Vincentwei1021%2Fvideo-shotcraft | Trendshift" width="250" height="55"/></a>
 
 </div>
 

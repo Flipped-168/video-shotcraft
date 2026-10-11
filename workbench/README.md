@@ -30,6 +30,8 @@ cd workbench && npm install && npm run dev      # http://localhost:5198
 - **成片拆解导入**：按工程 `src/workbench.ts` 清单一键拆成 镜头 / 转场 / 字幕 / 叠加层 / 音乐 /
   音效 的多轨工程，落点与原 `<Sequence>` 逐帧一致（`npm run parity` 可证）
 - **保存**：自动存 localStorage（800ms 防抖），导出/导入工程 JSON，撤销/重做
+- **旧工程兼容**：2026-10 下架的 66 个镜头以冻结实现保留在 `demos/_legacy/`；旧存档 / JSON 仍按原
+  `cardId`、时序、变速和属性预览与导出。兼容卡不重新出现在素材库或 Studio 独立合成列表里。
 - **界面语言**：默认英文，顶栏右侧下拉框切换 English / 中文 / Русский（选择记在
   localStorage `shotcraft-workbench-locale`）。语言只影响展示，不改写工程 JSON 与轨道名。界面 chrome 走 `src/i18n.ts`
   的字符串表；卡片名 / schema 字段名 / 分类 / 轨道名 / 清单里的镜头标签照原文写，展示时按同文件的 zh→en / zh→ru

@@ -4,6 +4,9 @@
 demo 文件，不能只凭卡名假设目录结构。这里的组件是调校过的 Remotion 实现——
 **用卡先读准确源码**（SKILL.md 理念 5）。
 
+`_legacy/` 仅为工作台旧工程保留已下架镜头，不属于当前镜头库，也不供新片选卡；
+它不参与素材库、画廊与样片冒烟扫描，兼容说明见 [`_legacy/README.md`](_legacy/README.md)。
+
 使用方式：copy 需要的 .tsx 进你的 Remotion 项目（30fps / 1920×1080），
 注册成 Composition 即可跑。每个组件都 `export const <Stem>: React.FC` 并同时导出
 `<大写蛇形>_DURATION`（30fps 帧数），注册时直接用：

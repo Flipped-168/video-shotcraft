@@ -8,6 +8,7 @@ exports/
 
 # 按本机链接生成（scripts/gen-index.mjs：prepare / predev / prebuild / prestudio 都会跑）
 src/cards/demo-index.ts
+src/cards/legacy-index.ts
 src/cards/demoMeta.ts
 src/mediaManifest.ts
 src/projMeta.ts

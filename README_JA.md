@@ -122,6 +122,7 @@ ln -s "$(pwd)" ~/.codex/skills/video-shotcraft    # Codex
 | Remotion プロジェクト | 映像のソース一式。各ショットは React コンポーネントで、あなたもエージェントも変更できます |
 | モーションワークベンチ | 納品後に自動で開く：トラック、インスペクタ、速度変更、ショット差し替え、書き出し（[詳細](#モーションワークベンチ)） |
 | 剪映ドラフト | 任意：ショット単位のクリップ・字幕・音声トラックを編集できる剪映プロジェクト |
+| SNS 投稿 | 任意、依頼があれば：Upload-Post で完成映像を TikTok・Instagram・YouTube・LinkedIn・X などへ投稿。キャプションと投稿先を確認し、dry-run の後に投稿（[ガイド](references/publish-upload-post.md)） |
 
 ほかにも、再利用できる Remotion コンポーネント（2.5D ページカメラ、字幕、フラッシュカット、数字ロール）、
 SFX 149 種と BGM 5 曲、ページキャプチャスクリプト、そして制作手法そのもの（素材キャプチャ、ビジュアルの方向付け、
@@ -237,11 +238,13 @@ video-shotcraft/
 │   ├── music-beat-sync.md   # BGM 解析とビート同期の手法
 │   ├── sound-design.md      # サウンドデザインの指針と事例
 │   ├── jianying-export.md   # 剪映（CapCut 中国版）書き出しガイド
+│   ├── publish-upload-post.md # SNS 投稿（任意、Upload-Post API）
 │   └── workbench.md         # ワークベンチ：マニフェスト契約と編集可能性のルール
 ├── demos/                   # Remotion 参照実装（同じカテゴリ構成）
 ├── gallery/                 # 静的なモーションプレビュー Gallery
 ├── template/                # そのまま動く完成映像テンプレート
 ├── jianying-export/         # 剪映ドラフトのインストーラ（mac 検証済み / win 未検証）
+├── publish/                 # SNS 投稿スクリプト（Python 標準ライブラリ）+ オフラインテスト
 ├── workbench/               # 納品後のモーションワークベンチ（Vite + Remotion Player）
 └── assets/
     ├── lib/                 # 再利用できる Remotion コンポーネント

@@ -126,6 +126,7 @@ Just describe the film. No command needed.
 | Remotion project | The full source of your film: every shot is a React component you or the agent can change |
 | Motion Workbench | Opens after delivery: tracks, inspector, retime, swap shots, export ([details](#motion-workbench)) |
 | JianYing draft | Optional: an editable JianYing (CapCut CN) project with per-shot clips, captions and audio tracks |
+| Social publishing | Optional, when you ask: publish the finished film via Upload-Post to TikTok, Instagram, YouTube, LinkedIn, X and more. Confirm caption and platforms, then dry-run before posting ([guide](references/publish-upload-post.md)) |
 
 Also in the box: reusable Remotion components (2.5D page camera, captions, flash cuts, digit rolls), 149 SFX and
 5 BGM tracks, page-capture scripts, and the production method itself (capture, visual direction, storyboarding,
@@ -242,11 +243,13 @@ video-shotcraft/
 │   ├── music-beat-sync.md   # BGM analysis and beat-sync methodology
 │   ├── sound-design.md      # Sound-design guidance and examples
 │   ├── jianying-export.md   # JianYing (CapCut CN) project-export guide
+│   ├── publish-upload-post.md # Optional social publishing (Upload-Post API)
 │   └── workbench.md         # Motion workbench: manifest contract + editability rules
 ├── demos/                   # Remotion reference implementations (same categories)
 ├── gallery/                 # Static motion-preview Gallery
 ├── template/                # Runnable complete video template
 ├── jianying-export/         # JianYing draft installers (mac tested / win untested)
+├── publish/                 # Optional social publisher (stdlib-only Python) + offline tests
 ├── workbench/               # Post-delivery motion workbench (Vite + Remotion Player)
 └── assets/
     ├── lib/                 # Reusable Remotion components

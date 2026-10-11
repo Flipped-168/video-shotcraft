@@ -115,6 +115,7 @@ ln -s "$(pwd)" ~/.codex/skills/video-shotcraft    # Codex
 | Remotion 工程 | 整支片的源码：每个镜头都是一个 React 组件，你或 agent 都能改 |
 | 动效工作台 | 交付后自动打开：多轨时间线、属性面板、变速、换镜头、导出（[详情](#动效工作台)） |
 | 剪映工程 | 可选：可编辑的剪映草稿，镜头分段、字幕和音轨都能改 |
+| 社交平台发布 | 可选，用户要求时：通过 Upload-Post 把成片发到 TikTok / Instagram / YouTube / LinkedIn / X 等；先确认文案与平台、dry-run 后再发（[说明](references/publish-upload-post.md)） |
 
 另外还附带：可复用的 Remotion 组件（2.5D 页面相机、字幕、闪切、数字滚动）、149 个音效和 5 首 BGM、
 页面素材采集脚本，以及整套制作方法（素材采集、风格定调、分镜、声音设计、节奏卡点、最终验收），
@@ -225,11 +226,13 @@ video-shotcraft/
 │   ├── music-beat-sync.md   # BGM 节奏分析与卡点方法
 │   ├── sound-design.md      # 声音设计方法与判例
 │   ├── jianying-export.md   # 剪映工程导出方法
+│   ├── publish-upload-post.md # 社交平台发布（可选，Upload-Post API）
 │   └── workbench.md         # 动效工作台：成片接入契约 + 可编辑性规则
 ├── demos/                   # 镜头卡的 Remotion 参考实现（同类别目录）
 ├── gallery/                 # 在线样片画廊的静态站点
 ├── template/                # 可直接运行的完整成片模板
 ├── jianying-export/         # 剪映草稿安装模块（Mac 实测 / Windows 未验证）
+├── publish/                 # 社交平台发布脚本（纯标准库 Python）+ 离线单测
 ├── workbench/               # 交付后的动效工作台（Vite + Remotion Player）
 └── assets/
     ├── lib/                 # 可复制使用的 Remotion 组件

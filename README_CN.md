@@ -27,22 +27,6 @@
 
 </div>
 
-## ❤️ Sponsors
-
-<table>
-<tr>
-<td align="center" valign="middle" width="25%">
-  <a href="https://www.packyapi.ai/register?aff=l9IZ"><img src="./assets/readme/sponsors/packycode.png" width="200" alt="PackyCode 标志"></a><br>
-  <a href="https://www.packyapi.ai/register?aff=l9IZ"><b>PackyCode</b></a>
-</td>
-<td>
-  <p>PackyCode 是一家稳定、高效的 API 中转服务商，通过统一域名、统一密钥接入主流大模型，支持智能容灾切换，并提供专属 Codex / Claude Code 高速通道。</p>
-  <p>新用户可获 $1 免费体验额度，首充享折扣，多分组折扣低至 2 折起。支持人民币 1:1 充值，无汇率加价及额外充值手续费。</p>
-  <p><a href="https://www.packyapi.ai/register?aff=l9IZ">注册并开始使用 PackyCode →</a></p>
-</td>
-</tr>
-</table>
-
 ## 它做什么
 
 对 Claude Code 或 Codex 说一句「给我的产品做一支宣传片」。agent 会抓取你的真实页面，从调校好的动效配方库里挑镜头，
@@ -67,6 +51,32 @@
   给它口播稿和成品配音，所有动效节拍都钉在人声上（[78 条口播动效样片](https://vincentwei1021.github.io/video-talkcraft/)）。
 - **2026-08 · 剪映工程导出**：成片可导出为可编辑的剪映草稿——底片按镜头切段、字幕重建为原生文本轨、
   SFX/BGM 独立音轨。Mac 剪映 11.2 实测验收（[方法](references/jianying-export.md)）。
+
+## ❤️ Sponsors
+
+<table>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://aws.amazon.com/"><img src="./assets/readme/sponsors/aws.svg" width="200" alt="AWS 标志"></a><br>
+  <a href="https://aws.amazon.com/"><b>AWS</b></a>
+</td>
+<td>
+  <p>Amazon Web Services（AWS）提供稳定、可扩展的云计算服务，涵盖计算、存储和 AI。</p>
+  <p><a href="https://aws.amazon.com/">了解 AWS →</a></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><img src="./assets/readme/sponsors/packycode.png" width="200" alt="PackyCode 标志"></a><br>
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><b>PackyCode</b></a>
+</td>
+<td>
+  <p>PackyCode 是一家稳定、高效的 API 中转服务商，通过统一域名、统一密钥接入主流大模型，支持智能容灾切换，并提供专属 Codex / Claude Code 高速通道。</p>
+  <p>新用户可获 $1 免费体验额度，首充享折扣，多分组折扣低至 2 折起。支持人民币 1:1 充值，无汇率加价及额外充值手续费。</p>
+  <p><a href="https://www.packyapi.ai/register?aff=l9IZ">注册并开始使用 PackyCode →</a></p>
+</td>
+</tr>
+</table>
 
 ## 安装
 

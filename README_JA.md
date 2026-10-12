@@ -27,22 +27,6 @@
 
 </div>
 
-## ❤️ Sponsors
-
-<table>
-<tr>
-<td align="center" valign="middle" width="25%">
-  <a href="https://www.packyapi.ai/register?aff=l9IZ"><img src="./assets/readme/sponsors/packycode.png" width="200" alt="PackyCode ロゴ"></a><br>
-  <a href="https://www.packyapi.ai/register?aff=l9IZ"><b>PackyCode</b></a>
-</td>
-<td>
-  <p>PackyCode は、1 つの API エンドポイントと API キーで主要な AI モデルにアクセスできる、高速で安定した API 中継サービスです。自動フェイルオーバーと、Codex / Claude Code 専用の高速ルートを提供します。</p>
-  <p>新規ユーザーには $1 分の無料クレジットと初回チャージ割引があり、対象ルートでは最大 80% オフ。人民元でチャージでき、為替レートへの上乗せや追加のチャージ手数料はありません。</p>
-  <p><a href="https://www.packyapi.ai/register?aff=l9IZ">PackyCode を始める →</a></p>
-</td>
-</tr>
-</table>
-
 ## できること
 
 Claude Code や Codex に「プロダクトのプロモーション動画を作って」と頼むだけ。エージェントが実際のページを
@@ -70,6 +54,32 @@ Claude Code や Codex に「プロダクトのプロモーション動画を作�
   （[78 本のナレーション用プレビュー](https://vincentwei1021.github.io/video-talkcraft/)）。
 - **2026-08 · 剪映（CapCut 中国版）書き出し**：完成映像を編集可能な剪映ドラフトに。ショット単位のクリップ、
   ネイティブ字幕トラック、独立した SFX/BGM トラック。macOS 版剪映 11.2 で検証済み（[ガイド](references/jianying-export.md)）。
+
+## ❤️ Sponsors
+
+<table>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://aws.amazon.com/"><img src="./assets/readme/sponsors/aws.svg" width="200" alt="AWS ロゴ"></a><br>
+  <a href="https://aws.amazon.com/"><b>AWS</b></a>
+</td>
+<td>
+  <p>Amazon Web Services（AWS）は、コンピューティング、ストレージ、AI など、信頼性と拡張性を備えたクラウドサービスを提供します。</p>
+  <p><a href="https://aws.amazon.com/">AWS を見る →</a></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><img src="./assets/readme/sponsors/packycode.png" width="200" alt="PackyCode ロゴ"></a><br>
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><b>PackyCode</b></a>
+</td>
+<td>
+  <p>PackyCode は、1 つの API エンドポイントと API キーで主要な AI モデルにアクセスできる、高速で安定した API 中継サービスです。自動フェイルオーバーと、Codex / Claude Code 専用の高速ルートを提供します。</p>
+  <p>新規ユーザーには $1 分の無料クレジットと初回チャージ割引があり、対象ルートでは最大 80% オフ。人民元でチャージでき、為替レートへの上乗せや追加のチャージ手数料はありません。</p>
+  <p><a href="https://www.packyapi.ai/register?aff=l9IZ">PackyCode を始める →</a></p>
+</td>
+</tr>
+</table>
 
 ## インストール
 

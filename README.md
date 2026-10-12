@@ -55,15 +55,7 @@ sharp, on-brand and fully editable.
 
 **How it works**
 
-```mermaid
-flowchart LR
-  A[Your product<br>or web page] --> B[Capture<br>real pages]
-  B --> C[Storyboard with<br>shot recipe cards]
-  C --> D[Animate in<br>Remotion]
-  D --> E[Beat sync +<br>sound design]
-  E --> F[Render +<br>frame QA]
-  F --> G[MP4 · Motion Workbench<br>· JianYing draft]
-```
+![Eight-second workflow loop: product → capture real pages → storyboard with shot recipe cards → animate in Remotion → beat sync and sound design → render and frame QA → MP4, Motion Workbench and JianYing draft](assets/readme/workflow.gif)
 
 ## What's new
 

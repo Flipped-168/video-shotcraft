@@ -24,6 +24,22 @@
 
 </div>
 
+## ❤️ Sponsors
+
+<table>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><img src="./assets/readme/sponsors/packycode.png" width="200" alt="PackyCode logo"></a><br>
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><b>PackyCode</b></a>
+</td>
+<td>
+  <p>Access leading AI models through PackyCode with one API endpoint and one API key. Enjoy fast, reliable access with automatic failover and dedicated high-speed routes for Codex and Claude Code.</p>
+  <p>Get started with $1 in free credits, a discount on your first top-up, and savings of up to 80% on eligible routes. Pay in RMB with no currency conversion markups or extra top-up fees.</p>
+  <p><a href="https://www.packyapi.ai/register?aff=l9IZ">Get started with PackyCode →</a></p>
+</td>
+</tr>
+</table>
+
 ## What it does
 
 Tell Claude Code or Codex "make a promo for my product". The agent captures your real pages, picks shots

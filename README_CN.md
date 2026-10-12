@@ -24,6 +24,22 @@
 
 </div>
 
+## ❤️ Sponsors
+
+<table>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><img src="./assets/readme/sponsors/packycode.png" width="200" alt="PackyCode 标志"></a><br>
+  <a href="https://www.packyapi.ai/register?aff=l9IZ"><b>PackyCode</b></a>
+</td>
+<td>
+  <p>PackyCode 是一家稳定、高效的 API 中转服务商，通过统一域名、统一密钥接入主流大模型，支持智能容灾切换，并提供专属 Codex / Claude Code 高速通道。</p>
+  <p>新用户可获 $1 免费体验额度，首充享折扣，多分组折扣低至 2 折起。支持人民币 1:1 充值，无汇率加价及额外充值手续费。</p>
+  <p><a href="https://www.packyapi.ai/register?aff=l9IZ">注册并开始使用 PackyCode →</a></p>
+</td>
+</tr>
+</table>
+
 ## 它做什么
 
 对 Claude Code 或 Codex 说一句「给我的产品做一支宣传片」。agent 会抓取你的真实页面，从调校好的动效配方库里挑镜头，

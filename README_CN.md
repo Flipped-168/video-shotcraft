@@ -57,12 +57,11 @@
 <table>
 <tr>
 <td align="center" valign="middle" width="25%">
-  <a href="https://aws.amazon.com/"><img src="./assets/readme/sponsors/aws.svg" width="200" alt="AWS 标志"></a><br>
-  <a href="https://aws.amazon.com/"><b>AWS</b></a>
+  <a href="https://go.apimart.ai/tw-video-shotcraft"><img src="./assets/readme/sponsors/apimart.png" width="200" alt="APIMart 标志"></a><br>
+  <a href="https://go.apimart.ai/tw-video-shotcraft"><b>APIMart</b></a>
 </td>
 <td>
-  <p>Amazon Web Services（AWS）提供稳定、可扩展的云计算服务，涵盖计算、存储和 AI。</p>
-  <p><a href="https://aws.amazon.com/">了解 AWS →</a></p>
+  <p>感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过此<a href="https://go.apimart.ai/tw-video-shotcraft">注册链接</a>注册即可开用。</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +73,16 @@
   <p>PackyCode 是一家稳定、高效的 API 中转服务商，通过统一域名、统一密钥接入主流大模型，支持智能容灾切换，并提供专属 Codex / Claude Code 高速通道。</p>
   <p>新用户可获 $1 免费体验额度，首充享折扣，多分组折扣低至 2 折起。支持人民币 1:1 充值，无汇率加价及额外充值手续费。</p>
   <p><a href="https://www.packyapi.ai/register?aff=l9IZ">注册并开始使用 PackyCode →</a></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="25%">
+  <a href="https://aws.amazon.com/"><img src="./assets/readme/sponsors/aws.svg" width="200" alt="AWS 标志"></a><br>
+  <a href="https://aws.amazon.com/"><b>AWS</b></a>
+</td>
+<td>
+  <p>Amazon Web Services（AWS）提供稳定、可扩展的云计算服务，涵盖计算、存储和 AI。</p>
+  <p><a href="https://aws.amazon.com/">了解 AWS →</a></p>
 </td>
 </tr>
 </table>
